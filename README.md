@@ -1,0 +1,2 @@
+# treemob
+Material produced for my MA thesis in Digital Humanities at University of Pisa (Italy). The work consists on the research of an expressive methodology to represent and study personal mobility data, in particular exploiting the prefix tree architecture. One of the outputs produced is the python module treemob, containing all the tools implemented for the data representation and for the analysis.
